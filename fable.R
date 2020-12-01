@@ -41,7 +41,7 @@ global_economy %>%
     data = top_n(avg_gdp_pc, 5, last),
   )
 
-#source code: https://github.com/rstudio-conf-2020/time-series-forecasting/blob/master/materials/labs.R
+#source: https://github.com/rstudio-conf-2020/time-series-forecasting/blob/master/materials/labs.R
 
 #########################################
 
